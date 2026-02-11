@@ -73,10 +73,12 @@ python-data-cleaning/
 │── README.md
 ```
 ## Before Cleaning
-![Messy Data](screenshot_of_messy_input_data.csv.png)
+
+![Messy Data](messy_input_data.png)
 
 ## After Cleaning
-![Cleaned Data](screenshot_of_cleaned_data.csv.png)
+
+![Cleaned Data](cleaned_data.png)
 
 ---
 
