@@ -72,6 +72,11 @@ python-data-cleaning/
 │── cleaned_data.csv     # Cleaned output dataset
 │── README.md
 ```
+## Before Cleaning
+![Messy Data](screenshot_of_messy_data.png)
+
+## After Cleaning
+![Cleaned Data](screenshot_of_cleaned_data.png)
 
 ---
 
